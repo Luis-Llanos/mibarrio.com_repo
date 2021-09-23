@@ -1,0 +1,1 @@
+productosalidaentradasSELECT * FROM mibarrio.salidas;
